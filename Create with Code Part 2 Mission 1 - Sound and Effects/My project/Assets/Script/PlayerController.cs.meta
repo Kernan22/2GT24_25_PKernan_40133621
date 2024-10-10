@@ -3,7 +3,11 @@ guid: e83ed758b54dc784ebf4dafbef1ff80b
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - explosionParticle: {instanceID: 0}
+  - dirtParticle: {instanceID: 0}
+  - jumpSound: {fileID: 8300000, guid: 113ee460fadc340e4957a7404a9fbb27, type: 3}
+  - crashSound: {fileID: 8300000, guid: 913d6445ee8cc4152a9c18da590ee203, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
